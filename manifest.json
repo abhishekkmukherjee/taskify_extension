@@ -1,0 +1,13 @@
+
+{
+  "manifest_version": 3,
+  "name": "Taskify",
+  "version": "1.0",
+  "description": "A modern and elegant task management extension",
+  "action": {
+    "default_popup": "popup.html"
+   
+  },
+  "permissions": ["storage"]
+  
+}
