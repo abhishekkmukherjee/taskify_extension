@@ -2,7 +2,7 @@
 
 Taskify is a beautiful and intuitive task management extension for Chrome that helps you stay organized and productive.
 
-![Taskify Logo](./icons/icon128.png)
+
 
 ## Features
 
@@ -74,6 +74,4 @@ taskify/
 
 Contributions are welcome! Feel free to submit issues or pull requests to help improve Taskify.
 
-## License
 
-[Add your license information here]
